@@ -29,4 +29,15 @@ Nous pouvons faire appel à des sociétés tierces et à des particuliers pour l
 Nous souhaitons informer les utilisateurs de ce service que ces tiers ont accès à vos informations personnelles. La raison en est l'exécution des tâches qui leur sont assignées en notre nom. Toutefois, ils sont tenus de ne pas divulguer ou utiliser les informations à d'autres fins.
 ### Sécurité
 
-Nous apprécions la confiance que vous nous accordez en nous fournissant vos informations personnelles.
+Nous apprécions la confiance que vous nous accordez en nous communiquant vos informations personnelles et nous nous efforçons donc d'utiliser des moyens commercialement acceptables pour les protéger. Mais n'oubliez pas qu'aucune méthode de transmission sur l'internet ou de stockage électronique n'est sûre et fiable à 100 % et que nous ne pouvons pas garantir une sécurité absolue.
+### Vie privée des enfants
+
+Ces services ne s'adressent pas aux personnes âgées de moins de 13 ans. Nous ne recueillons pas sciemment d'informations personnelles identifiables auprès d'enfants de moins de 13 ans. Si nous découvrons qu'un enfant de moins de 13 ans nous a fourni des informations personnelles, nous les supprimons immédiatement de nos serveurs. Si vous êtes un parent ou un tuteur et que vous savez que votre enfant nous a fourni des informations personnelles, veuillez nous contacter afin que nous puissions prendre les mesures nécessaires.
+Modifications de la présente politique de confidentialité
+
+Nous pouvons mettre à jour notre politique de confidentialité de temps à autre. Il vous est donc conseillé de consulter régulièrement cette page pour prendre connaissance des éventuelles modifications. Nous vous informerons de toute modification en publiant la nouvelle politique de confidentialité sur cette page. Ces modifications entrent en vigueur immédiatement après leur publication sur cette page.
+### Nous contacter
+
+Si vous avez des questions ou des suggestions concernant notre politique de confidentialité, n'hésitez pas à nous contacter.
+Informations de contact :
+Courriel : [xxx@email.com]
