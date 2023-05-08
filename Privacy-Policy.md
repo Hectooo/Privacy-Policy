@@ -40,4 +40,4 @@ Nous pouvons mettre à jour notre politique de confidentialité de temps à autr
 
 Si vous avez des questions ou des suggestions concernant notre politique de confidentialité, n'hésitez pas à nous contacter.
 Informations de contact :
-Courriel : [xxx@email.com]
+Courriel : [company.blacksun@gmail.com]
